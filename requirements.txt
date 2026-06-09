@@ -31,3 +31,4 @@ python-slugify
 
 #Then install browsers:
 # playwright install
+#https://github.com/sourabhsat89/PythonFramework.git
